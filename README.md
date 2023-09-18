@@ -1,18 +1,58 @@
-## Getting Started
+<!-- Reemplaza 'url_del_logo.png' con la URL o ruta de tu logo -->
+<p align="center"><img src="assets\sena_logo.png" width="80px"></p>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Proyecto Calculadora Simple
 
-## Folder Structure
+Este es un proyecto de una calculadora simple en Java que permite a los usuarios realizar operaciones matemáticas básicas como suma, resta, multiplicación y división.
 
-The workspace contains two folders by default, where:
+## Funcionalidades
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+La calculadora simple proporciona las siguientes funcionalidades:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Suma de dos números.
+- Resta de dos números.
+- Multiplicación de dos números.
+- División de dos números.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Uso
 
-## Dependency Management
+Para utilizar la calculadora, sigue estos pasos:
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. Ejecuta la aplicación.
+2. Ingresa el primer número.
+3. Ingresa el segundo número.
+4. Selecciona la operación que deseas realizar (suma, resta, multiplicación o división).
+5. La calculadora mostrará el resultado de la operación.
+
+## Ejemplo de Uso
+
+Supongamos que deseas sumar dos números:
+
+1. Ejecuta la aplicación.
+2. Ingresa el primer número, por ejemplo, 5.
+3. Ingresa el segundo número, por ejemplo, 3.
+4. Selecciona la operación de suma.
+5. La calculadora mostrará el resultado, que en este caso será 8.
+
+## Tecnologías Utilizadas
+
+Este proyecto utiliza Java para la implementación de la calculadora simple.
+
+## Contribución
+
+Si deseas contribuir al desarrollo de este proyecto, sigue estos pasos:
+
+1. Haz un fork del repositorio.
+2. Clona el repositorio a tu máquina local.
+3. Realiza tus cambios y mejoras.
+4. Crea un pull request para que tus cambios sean revisados y fusionados.
+
+## Licencia
+
+Este proyecto se encuentra bajo la [Licencia MIT](LICENSE). Puedes consultar el archivo LICENSE para obtener más detalles.
+
+## Contacto
+
+Si tienes preguntas o comentarios sobre el proyecto, puedes ponerte en contacto con nosotros en [creativelaides@gmail.com](mailto:creativelaides@gmail.com).
+
+¡Gracias por utilizar la Calculadora Simple!
