@@ -9,9 +9,11 @@ public class App {
 
         System.out.println("Ingrese su numero 1");
         int numero1 = shell.nextInt();
+        shell.nextLine(); // Consumir la nueva línea después de leer un entero
 
         System.out.println("\nIngrese su numero 2");
         int numero2 = shell.nextInt();
+        shell.nextLine(); // Consumir la nueva línea después de leer un entero
 
         int addition = numero1 + numero2; // Suma
         int subtraction = numero1 - numero2; // Resta
